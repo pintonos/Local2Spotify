@@ -1,6 +1,6 @@
 # Local2Spotify
 
-Based on songs downloaded locally, this tool searches them on Spotify and add them to a playlist.
+Based on songs downloaded locally, this tool searches them on Spotify and adds them to newly created playlist.
 
 ## Setup
 
